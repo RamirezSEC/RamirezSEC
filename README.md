@@ -1,7 +1,7 @@
 <h1>Hello, I'm Alorfi! 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/RamirezSEC/ActiveDirectoryLAB.git).
 
 
 <h2>📺 YouTube Videos</h2>
