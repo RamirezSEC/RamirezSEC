@@ -1,4 +1,18 @@
 <h1>Hello, I'm Alorfi! 
+
+ <h2>Aspiring IT professional with CompTIA A+, Network+, and Security+ certifications and a strong focus on hands-on learning. I build and manage home lab environments simulating real-world enterprise systems, including Active Directory, network security with pfSense, and intrusion detection using Suricata. Passionate about troubleshooting, system administration, and cybersecurity, I’m actively working to turn practical skills into a full-time IT role
+
+<h2> Certifications:</h2>
+
+  - CompTIA SEC+
+  - CompTIA Net+
+  - CompTIA A+
+  - CompTIA ITF+
+
+
+
+
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/RamirezSEC/ActiveDirectoryLAB.git).
