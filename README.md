@@ -15,8 +15,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/RamirezSEC/ActiveDirectoryLAB.git).
-  - [pfSense Virtual Firewall Lab](https://github.com/RamirezSEC/pfSense-firewall-lab.git).
+  - [Active Directory Home Lab](https://github.com/RamirezSEC/ActiveDirectoryLAB.git)
+  - [pfSense Virtual Firewall Lab](https://github.com/RamirezSEC/pfSense-firewall-lab.git)
 
 
 <h2>📺 YouTube Videos</h2>
